@@ -1,0 +1,23 @@
+bc069c744801aaed8edee242537083d0 14 JUST-CRAWLER(*)
+bc365023c8f507a389933db05a7f5c93 28 Mozilla/4.79*(*Windows NT 4.0*)*	Mozilla/4.79*(*Windows NT 5.0*)*	Mozilla/4.79*(*Windows NT 5.1*)*	Mozilla/4.79*(*Windows NT 5.2*)*	Mozilla/4.79*(*Windows NT 6.0*)*
+bc365023c8f507a389933db05a7f5c93 26 Mozilla/4.79*(*Macintosh*PPC*)*
+bc365023c8f507a389933db05a7f5c93 21 Mozilla/4.79*(*Win2000*)*	Mozilla/4.79*(*FreeBSD*)*	Mozilla/4.79*(*OpenBSD*)*
+bc365023c8f507a389933db05a7f5c93 20 Mozilla/4.79*(*IRIX64*)*
+bc365023c8f507a389933db05a7f5c93 19 Mozilla/4.79*(*Linux*)*	Mozilla/4.79*(*Win95*)*	Mozilla/4.79*(*Win98*)*	Mozilla/4.79*(*WinNT*)*	Mozilla/4.79*(*SunOS*)*	Mozilla/4.79*(*HP-UX*)*
+bc365023c8f507a389933db05a7f5c93 18 Mozilla/4.79*(*IRIX*)*
+bc4eccc60389851686975c235f2f924d 15 LG-G7100 AU/4.1*
+bc6a5943b84b30a99d9adabd0465bf19 9 Zookabot/*
+bc9c5f43c2ff8716b2fbac4abf31591e 57 ultrafone 303*Linux*Android?4.0* Release* Browser?AppleWebkit*
+bcd6154855f84ba2aa3c20266959858d 34 PHILIPS-SYSOL3/3.11 UP.Browser/5.0*
+bcd68622ca5b1eb070173602a56cdcc2 20 MOT-L7i/* MIB/BER2.2 *
+bcd6c0bfec3ab43fdb2aeedaa8a5cf82 12 MJ12bot/v0.8*
+bcd86603d1581bc43505f48dbfcb673b 31 SAGEM-myV-55/1.0* UP.Browser/6.2*
+bce0a956f699a78a6b6a803d236f2c3b 8 HTTPGrab
+bce103e84e0f735152285908b32fd4f1 117 MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?4.4*MI 4LTE Build/*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 Chrome/*Safari/*
+bce103e84e0f735152285908b32fd4f1 111 MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?2.3*GT-N7100 Build/*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?4.0*GT-N7100 Build/*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?4.1*GT-N7100 Build/*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?2.3*GT-I9100 Build/*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?4.0*GT-I9100 Build/*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?4.1*GT-I9100 Build/*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*
+bce103e84e0f735152285908b32fd4f1 104 MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android*A5000 Build/*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*
+bce103e84e0f735152285908b32fd4f1 103 MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?2.3*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 Chrome/*Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?4.0*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 Chrome/*Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?4.1*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 Chrome/*Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?4.2*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 Chrome/*Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?4.3*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 Chrome/*Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?4.4*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 Chrome/*Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?5.0*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 Chrome/*Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?5.1*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 Chrome/*Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?6.0*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 Chrome/*Safari/*
+bce103e84e0f735152285908b32fd4f1 99 MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 Chrome/*Safari/*
+bce103e84e0f735152285908b32fd4f1 96 MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?2.3*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?4.0*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?4.1*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?4.2*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?4.3*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?4.4*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?5.0*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?5.1*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*	MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android?6.0*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*
+bce103e84e0f735152285908b32fd4f1 92 MQQBrowser/2.7*Mozilla/5.0 (*Linux*Android*) AppleWebKit/* (KHTML* like Gecko) Version/4.0 *Safari/*
+bce60081d7e96c1bdc4047069d0f4178 30 iBrowser/2.5,Lava-Discover132/*

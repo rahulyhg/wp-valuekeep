@@ -1,0 +1,39 @@
+bb0f34588dfec8b9f7f468b4ee07a2b7 10 Nokia3220/*
+bb17668467b5ddac089930da7c0e6288 12 GreenBrowser
+bb20bb8e725854eb5a92901bbcbe7e96 25 ELinks/0.9* (*Digital Unix*)
+bb20bb8e725854eb5a92901bbcbe7e96 20 ELinks/0.9* (*FreeBSD*)	ELinks/0.9* (*OpenBSD*)	ELinks/0.9* (*Solaris*)
+bb20bb8e725854eb5a92901bbcbe7e96 19 ELinks/0.9* (*CygWin*)	ELinks/0.9* (*Darwin*)	ELinks/0.9* (*NetBSD*)
+bb20bb8e725854eb5a92901bbcbe7e96 18 ELinks/0.9* (*Linux*)	ELinks/0.9* (*SunOS*)
+bb20bb8e725854eb5a92901bbcbe7e96 17 ELinks/0.9* (*BeOS*)	ELinks/0.9* (*HPUX*)	ELinks/0.9* (*IRIX*)	ELinks/0.9* (*OS/2*)	ELinks/0.9* (*RISC*)	ELinks/0.9* (*Unix*)
+bb20bb8e725854eb5a92901bbcbe7e96 16 ELinks/0.9* (*AIX*)
+bb20bb8e725854eb5a92901bbcbe7e96 10 ELinks/0.9*
+bb2bdc8c7b7e39c6b815a2202e58d972 18 MOT-V400/* MIB/2.2 *
+bb4095d0076ffff8dbb56df40cc3bcc7 31 GoodReader/3.0* CFNetwork/467.12*	GoodReader/3.0* CFNetwork/485.10*	GoodReader/3.0* CFNetwork/485.12*	GoodReader/3.0* CFNetwork/485.13*
+bb4095d0076ffff8dbb56df40cc3bcc7 30 GoodReader/3.0* CFNetwork/485.2*	GoodReader/3.0* CFNetwork/548.1*	GoodReader/3.0* CFNetwork/548.0*	GoodReader/3.0* CFNetwork/609.1*	GoodReader/3.0* CFNetwork/672.0*	GoodReader/3.0* CFNetwork/672.1*	GoodReader/3.0* CFNetwork/711.0*	GoodReader/3.0* CFNetwork/711.1*	GoodReader/3.0* CFNetwork/711.2*	GoodReader/3.0* CFNetwork/711.3*	GoodReader/3.0* CFNetwork/711.4*	GoodReader/3.0* CFNetwork/711.5*
+bb4095d0076ffff8dbb56df40cc3bcc7 28 GoodReader/3.0* CFNetwork/459*	GoodReader/3.0* CFNetwork/602*	GoodReader/3.0* CFNetwork/609*	GoodReader/3.0* CFNetwork/758*
+bb4095d0076ffff8dbb56df40cc3bcc7 25 GoodReader/3.0* CFNetwork/*
+bb464c4dab33746eafa58f012cbcb4e1 82 AndroidDownloadManager/4.3* (Linux; ?; Android 4.3*; Transformer Prime TF201 Build/*)*
+bb464c4dab33746eafa58f012cbcb4e1 72 AndroidDownloadManager/4.3* (Linux; ?; Android 4.3*; LIFETAB_S9714 Build/*)*	AndroidDownloadManager/4.3* (Linux; ?; Android 4.3*; TP10.1-1500DC* Build/*)*
+bb464c4dab33746eafa58f012cbcb4e1 65 AndroidDownloadManager/4.3* (Linux; ?; Android 4.3*; SGPT12 Build/*)*	AndroidDownloadManager/4.3* (Linux; ?; Android 4.3*; ME302C Build/*)*
+bb464c4dab33746eafa58f012cbcb4e1 59 AndroidDownloadManager/4.3* (Linux; ?; Android 4.3*; * Build/*)*
+bb5a6ecb12d68c16bbbd8bd322aa5f72 14 urlgrabber/3.9*
+bb64a7a020ee74e237a96a5ec5e8552b 55 DuckDuckBot/*; (?http://duckduckgo.com/duckduckbot.html)
+bb6ec8dcea15643283afe386156af82e 41 Pinterest for Android Tablet/4.3* (A7600-H*	Pinterest for Android Tablet/4.2* (A7600-H*	Pinterest for Android Tablet/4.1* (A7600-H*	Pinterest for Android Tablet/4.0* (A7600-H*	Pinterest for Android Tablet/3.6* (A7600-H*	Pinterest for Android Tablet/3.5* (A7600-H*	Pinterest for Android Tablet/3.4* (A7600-H*	Pinterest for Android Tablet/3.3* (A7600-H*	Pinterest for Android Tablet/3.2* (A7600-H*	Pinterest for Android Tablet/3.1* (A7600-H*	Pinterest for Android Tablet/3.0* (A7600-H*	Pinterest for Android Tablet/2.0* (A7600-H*	Pinterest for Android Tablet/1.8* (A7600-H*	Pinterest for Android Tablet/1.1* (A7600-H*	Pinterest for Android Tablet/1.0* (A7600-H*	Pinterest for Android Tablet/0.2* (A7600-H*	Pinterest for Android Tablet/0.1* (A7600-H*
+bb6ec8dcea15643283afe386156af82e 40 Pinterest for Android Tablet/4.3* (SGP321*	Pinterest for Android Tablet/4.2* (SGP321*	Pinterest for Android Tablet/4.1* (SGP321*	Pinterest for Android Tablet/4.0* (SGP321*	Pinterest for Android Tablet/3.6* (SGP321*	Pinterest for Android Tablet/3.5* (SGP321*	Pinterest for Android Tablet/3.4* (SGP321*	Pinterest for Android Tablet/3.3* (SGP321*	Pinterest for Android Tablet/3.2* (SGP321*	Pinterest for Android Tablet/3.1* (SGP321*	Pinterest for Android Tablet/3.0* (SGP321*	Pinterest for Android Tablet/2.0* (SGP321*	Pinterest for Android Tablet/1.8* (SGP321*	Pinterest for Android Tablet/1.1* (SGP321*	Pinterest for Android Tablet/1.0* (SGP321*	Pinterest for Android Tablet/0.2* (SGP321*	Pinterest for Android Tablet/0.1* (SGP321*
+bb6ec8dcea15643283afe386156af82e 36 Pinterest for Android/4.3* (endeavoru*	Pinterest for Android/4.2* (endeavoru*	Pinterest for Android/4.1* (endeavoru*	Pinterest for Android/4.0* (endeavoru*	Pinterest for Android/3.6* (endeavoru*	Pinterest for Android/3.5* (endeavoru*	Pinterest for Android/3.4* (endeavoru*	Pinterest for Android/3.3* (endeavoru*	Pinterest for Android/3.2* (endeavoru*	Pinterest for Android/3.1* (endeavoru*	Pinterest for Android/3.0* (endeavoru*	Pinterest for Android/2.0* (endeavoru*	Pinterest for Android/1.8* (endeavoru*	Pinterest for Android/1.1* (endeavoru*	Pinterest for Android/1.0* (endeavoru*	Pinterest for Android/0.2* (endeavoru*	Pinterest for Android/0.1* (endeavoru*
+bb6ec8dcea15643283afe386156af82e 32 Pinterest for Android Tablet/4.3*	Pinterest for Android Tablet/4.2*	Pinterest for Android Tablet/4.1*	Pinterest for Android Tablet/4.0*	Pinterest for Android Tablet/3.6*	Pinterest for Android Tablet/3.5*	Pinterest for Android Tablet/3.4*	Pinterest for Android Tablet/3.3*	Pinterest for Android Tablet/3.2*	Pinterest for Android Tablet/3.1*	Pinterest for Android Tablet/3.0*	Pinterest for Android Tablet/2.0*	Pinterest for Android Tablet/1.8*	Pinterest for Android Tablet/1.1*	Pinterest for Android Tablet/1.0*	Pinterest for Android Tablet/0.2*	Pinterest for Android Tablet/0.1*
+bb6ec8dcea15643283afe386156af82e 31 Pinterest for Android/4.3* (klte*	Pinterest for Android/4.2* (klte*	Pinterest for Android/4.1* (klte*	Pinterest for Android/4.0* (klte*	Pinterest for Android/3.6* (klte*	Pinterest for Android/3.5* (klte*	Pinterest for Android/3.4* (klte*	Pinterest for Android/3.3* (klte*	Pinterest for Android/3.2* (klte*	Pinterest for Android/3.1* (klte*	Pinterest for Android/3.0* (klte*	Pinterest for Android/2.0* (klte*	Pinterest for Android/1.8* (klte*	Pinterest for Android/1.1* (klte*	Pinterest for Android/1.0* (klte*	Pinterest for Android/0.2* (klte*	Pinterest for Android/0.1* (klte*
+bb6ec8dcea15643283afe386156af82e 29 Pinterest for Android Tablet/*
+bb6ec8dcea15643283afe386156af82e 25 Pinterest for Android/4.3*	Pinterest for Android/4.2*	Pinterest for Android/4.1*	Pinterest for Android/4.0*	Pinterest for Android/3.6*	Pinterest for Android/3.5*	Pinterest for Android/3.4*	Pinterest for Android/3.3*	Pinterest for Android/3.2*	Pinterest for Android/3.1*	Pinterest for Android/3.0*	Pinterest for Android/2.0*	Pinterest for Android/1.8*	Pinterest for Android/1.1*	Pinterest for Android/1.0*	Pinterest for Android/0.2*	Pinterest for Android/0.1*
+bb6ec8dcea15643283afe386156af82e 22 Pinterest for Android/*
+bb7d002c23889efdc2adf64a692aa60f 10 ZumBot/1.0*
+bb872456b17e47d1b1430297604454be 23 NEC-525/* up.Browser/6.1*
+bb8d586e26cddf5181a20463af87fa35 24 SIE-A65C/* UP.Browser/6.1*
+bbcfeb0cb213d8ea6344faa4296fb345 66 Nokia308/* Profile/MIDP-2* UCWEB/2.0 (*) U2/* UCBrowser/9.9* U2/* Mobile*	Nokia308/* Profile/MIDP-2* UCWEB/2.0 (*) U2/* UCBrowser/9.8* U2/* Mobile*	Nokia308/* Profile/MIDP-2* UCWEB/2.0 (*) U2/* UCBrowser/9.7* U2/* Mobile*	Nokia308/* Profile/MIDP-2* UCWEB/2.0 (*) U2/* UCBrowser/9.6* U2/* Mobile*	Nokia308/* Profile/MIDP-2* UCWEB/2.0 (*) U2/* UCBrowser/9.5* U2/* Mobile*	Nokia308/* Profile/MIDP-2* UCWEB/2.0 (*) U2/* UCBrowser/9.4* U2/* Mobile*	Nokia308/* Profile/MIDP-2* UCWEB/2.0 (*) U2/* UCBrowser/9.3* U2/* Mobile*	Nokia308/* Profile/MIDP-2* UCWEB/2.0 (*) U2/* UCBrowser/9.2* U2/* Mobile*	Nokia308/* Profile/MIDP-2* UCWEB/2.0 (*) U2/* UCBrowser/9.1* U2/* Mobile*	Nokia308/* Profile/MIDP-2* UCWEB/2.0 (*) U2/* UCBrowser/9.0* U2/* Mobile*
+bbdbe444288550204c968fe7002a97a9 15 Forum Poster V3*
+bbdbe444288550204c968fe7002a97a9 12 Forum Poster*
+bbfa1146b7c849c30c8bfd54bc59d0a9 18 MOT-V557p/* MIB/2.2*
+bbfaf476dfeb8af28aeb5c4e6e80e88d 23 SIE-M75/* UP.Browser/7.0*
+bbfcf8ef0dc53a789080ec883980658c 10 Nokia6100/*
+bbfd66af827c0ff614a140595be0e3a2 7 Y!J-PSC*
+bbfe192cf5b6041b255d063a6bed2ebe 59 GSmart-S1205;Mozilla/4.0 (*compatible*;*MSIE 6.0; PPC;240x400)

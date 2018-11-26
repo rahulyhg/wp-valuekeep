@@ -1,0 +1,134 @@
+
+body
+			{
+				font-family:Arial, Helvetica, sans-serif; 
+					font-size:13px;
+			}
+				.info2, .success2, .warning2, .error2, .validation {
+					border: 1px solid;
+					margin: 10px 0px;
+					padding:15px 10px 15px 50px;
+					background-repeat: no-repeat;
+					background-position: 10px center;
+				}
+				.info2 {
+					color: #00529B;
+					background-color: #BDE5F8;
+					background-image: url('../image/Knob%20Info.ico');
+				}
+				.success2 {
+					color: #4F8A10;
+					background-color: #DFF2BF;
+					background-image:url('../image/Knob%20Valid%20Green.ico');
+				}
+				.warning2 {
+					color: #9F6000;
+					background-color: #FEEFB3;
+					background-image: url('../image/Knob%20Attention.ico');
+				}
+				.error2 {
+					color: #D8000C;
+					background-color: #FFBABA;
+					background-image: url('../image/Knob%20Cancel.ico');
+				}
+				
+				
+				.info1, .success1, .warning1, .error1 
+				{
+					border: 1px solid;
+					margin: 15px 0px;
+					padding:15px 20px 15px 55px;
+					font: bold 12px verdana;
+					-moz-box-shadow: 0 0 5px #888;
+					-webkit-box-shadow: 0 0 5px#888;
+					box-shadow: 0 0 5px #888;
+					text-shadow: 2px 2px 2px #ccc;
+					-webkit-border-radius: 15px;
+					-moz-border-radius: 15px;
+					border-radius: 15px;
+				}
+				.info1 {
+					color: #00529B;
+					background: #BDE5F8 url('../image/icon-info.png') no-repeat 10px center;
+				}
+				.success1 {
+					color: #4F8A10;
+					background: #DFF2BF url('../image/icon-tick.png') no-repeat 10px center;
+				}
+				.warning1 {
+					color: #9F6000;
+					background: #FEEFB3 url('../image/icon-warning.png') no-repeat 10px center;
+				}
+				.error1 {
+					color: #D8000C;
+					background: #FFBABA url('../image/icon-cross.png') no-repeat 10px center;
+				}
+				
+				.up, .down, .left, .right{
+					
+					min-height:26px; /*min height of DIV should be set to at least 2x the width of the arrow*/
+					background: black;
+					color:white;
+					padding:5px;
+					position:relative;
+					word-wrap:break-word;
+					-moz-border-radius:5px; /*add some nice CSS3 round corners*/
+					-webkit-border-radius:5px;
+					border-radius:5px;
+					margin-bottom:2em;
+					padding-left:20px;
+					}
+
+					.up:after{ /*arrow added to uparrowdiv DIV*/
+					content:'';
+					display:block;
+					position:absolute;
+					top:-20px; /*should be set to -border-width x 2 */
+					left:30px;
+					width:0;
+					height:0;
+					border-color: transparent transparent black transparent; /*border color should be same as div div background color*/
+					border-style: solid;
+					border-width: 10px;
+
+					}
+
+					.down:after{ /*arrow added to downarrowdiv DIV*/
+					content:'';
+					display:block;
+					position:absolute;
+					top:100%; /*should be set to 100% */
+					left:30px;
+					width:0;
+					height:0;
+					border-color: black transparent transparent transparent; /*border color should be same as div div background color*/
+					border-style: solid;
+					border-width: 10px;
+					}
+
+					.left:after{ /*arrow added to leftarrowdiv DIV*/
+					content:'';
+					display:block;
+					position:absolute;
+					top:10px;
+					left:-20px; /*should be set to -border-width x 2 */
+					width:0;
+					height:0;
+					border-color: transparent black transparent transparent; /*border color should be same as div div background color*/
+					border-style: solid;
+					border-width: 10px;
+					}
+
+					.right:after{ /*arrow added to rightarrowdiv DIV*/
+					content:'';
+					display:block;
+					position:absolute;
+					top:10px;
+					left:100%; /*should be set to 100% */
+					width:0;
+					height:0;
+					border-color: transparent transparent transparent black; /*border color should be same as div div background color*/
+					border-style: solid;
+					border-width: 10px;
+					}
+					

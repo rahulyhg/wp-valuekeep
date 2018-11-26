@@ -1,0 +1,56 @@
+<wpml-config>
+	<admin-texts>
+			<key name="redux_demo">
+				<key name="theme-social-box-mailto-subject" />
+				<key name="yes-no-above-message" />
+				<key name="attached-file-title" />
+				<key name="attached-file-type" />
+				<key name="attached-file-size" />
+				<key name="attached-file-download" />
+				<key name="kb-breadcrumb-name" />
+				<key name="kb-related-post-title" />
+				<key name="doc-breadcrumb-name" />
+				<key name="global-search-text-paceholder" />
+				<key name="global-flip-search-text-paceholder" />
+				<key name="manual-trending-text" />
+				<key name="manual-three-trending-search-text">
+					<key name="Search keyword 1" />
+					<key name="Search keyword 2" />
+					<key name="Search keyword 3" />
+				</key>
+				<key name="home-header-main-title" />
+				<key name="home-header-sub-title" />
+				<key name="home-help-section-title-main" />
+				<key name="home-help-section-msg-short" />
+				<key name="message-bar-main-title" />
+				<key name="message-bar-sub-title" />
+				<key name="home-org-block-main-title" />
+				<key name="home-org-block-sub-title" />
+				<key name="home-funact-main-title" />
+				<key name="home-funact-sub-title" />
+				<key name="home-funact-sortable">
+					<key name="Text One" />
+					<key name="Text Two" />
+					<key name="Text Three" />
+					<key name="Text Four" />
+				</key>
+				<key name="footer-text" />
+				<key name="footer-copyright" />
+				<key name="manual-forum-title" />
+				<key name="manual-forum-message" />
+				<key name="home-404-main-title" />
+				<key name="home-404-body-main-title" />
+				<key name="home-404-body-main-subtitle-title" />
+				<key name="documentation-related-post-title" />
+				<key name="manual-post-type-search-text-inital" />
+				<key name="manual-post-type-search-dropdown-kb" />
+				<key name="manual-post-type-search-dropdown-documentation" />
+				<key name="manual-post-type-search-dropdown-portfolio" />
+				<key name="manual-post-type-search-dropdown-faq" />
+				<key name="manual-post-type-search-dropdown-forums" />
+				<key name="manual-post-type-search-dropdown-page" />
+				<key name="manual-post-type-search-dropdown-post" />
+				<key name="manual-post-type-search-dropdown-media" />
+			</key> 
+	</admin-texts>
+</wpml-config>
