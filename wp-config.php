@@ -131,9 +131,9 @@ $table_prefix  = 'wp_';
 /*
  * Handle multi domain into single instance of wordpress installation
  */
-define('WP_SITEURL', 'https://' . $_SERVER['SERVER_NAME']);
-define('WP_HOME', 'https://' . $_SERVER['SERVER_NAME']);
-define('DOMAIN_CURRENT_SITE', $_SERVER['HTTP_HOST']);
+#define('WP_SITEURL', 'https://' . $_SERVER['SERVER_NAME']);
+#define('WP_HOME', 'https://' . $_SERVER['SERVER_NAME']);
+#define('DOMAIN_CURRENT_SITE', $_SERVER['HTTP_HOST']);
 #define('WP_SITEURL', 'https://helpcenter.valuekeep.com');
 #define('WP_HOME', 'https://helpcenter.valuekeep.com');
 #if ($_SERVER['HTTP_HOST'] == 'vki-helpcenter.valuekeep.com') {
@@ -174,9 +174,10 @@ define('WP_DEBUG', false);
 
 // If we're behind a proxy server and using HTTPS, we need to alert Wordpress of that fact
 // see also http://codex.wordpress.org/Administration_Over_SSL#Using_a_Reverse_Proxy
-if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
-	$_SERVER['HTTPS'] = 'on';
-}
+define('FORCE_SSL_ADMIN', true); 
+if ( isset($_SERVER['HTTP_X_ARR_SSL']) ) 
+        $_SERVER['HTTPS']='on'; 
+
 
 /* That's all, stop editing! Happy blogging. */
 
